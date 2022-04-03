@@ -1,2 +1,2 @@
-var mes = document.querySelector('h1');
-mes.innerHTML = 'Hello';
+var area = function (length) { return length * length; };
+console.log(area(5));

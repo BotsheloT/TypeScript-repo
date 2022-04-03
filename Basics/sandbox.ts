@@ -1,3 +1,3 @@
-let mes = document.querySelector('h1');
+let area = (length: number) => {return length*length};
 
-mes.innerHTML = 'Hello';
+console.log(area(5));
